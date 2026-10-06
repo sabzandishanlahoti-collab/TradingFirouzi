@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تریدینگ فیروزی</string>
+
+    <string name="tab_market">بازار</string>
+    <string name="tab_chart">نمودار</string>
+    <string name="tab_settings">تنظیمات</string>
+
+    <string name="label_market">بازار</string>
+    <string name="label_timeframe">تایم‌فریم</string>
+    <string name="label_theme">تم</string>
+    <string name="label_refresh">به‌روزرسانی</string>
+
+    <string name="theme_system">سیستم</string>
+    <string name="theme_light">روشن</string>
+    <string name="theme_dark">تاریک</string>
+
+    <string name="loading">در حال بارگذاری…</string>
+    <string name="retry">تلاش مجدد</string>
+    <string name="empty">داده‌ای موجود نیست</string>
+    <string name="last_price">آخرین قیمت</string>
+    <string name="check_connection">اتصال اینترنت یا فیلترشکن را بررسی کن</string>
+    <string name="about">نسخه ۱.۰ — داده عمومی از صرافی‌ها</string>
+</resources>
